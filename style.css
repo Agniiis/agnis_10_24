@@ -1,5 +1,9 @@
+body{
+    background-color: black;
+}
 h1{
-    color: blue;
+    color:red;
+    background-color:grey;
     font-family: verdana;
     font-size: 300%;
 }
