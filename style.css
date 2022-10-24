@@ -1,5 +1,6 @@
 body{
-    background-color: black;
+    background-image: linear-gradient(red, yellow);
+    
 }
 h1{
     color:red;
@@ -7,3 +8,4 @@ h1{
     font-family: verdana;
     font-size: 300%;
 }
+
